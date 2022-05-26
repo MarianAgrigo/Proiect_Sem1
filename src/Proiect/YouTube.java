@@ -10,7 +10,7 @@ public class YouTube {
 		
 		Abonat a1=new Abonat("Misu");
 		Abonat a2=new Abonat ("Marian");
-		
+		Abonat a3=new Abonat ("Vali");
 		
 	
 		
@@ -19,7 +19,7 @@ public class YouTube {
 	
 		a1.subscribeCanal(unboxTherapy);
 		a2.subscribeCanal(unboxTherapy);
-		
+		a3.subscribeCanal(GeorgeBuhnici);
 		unboxTherapy.upload("Iphone 13 mini");
 		
 
